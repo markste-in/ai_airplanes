@@ -865,7 +865,7 @@ MonoBehaviour:
     VectorActionSize: 030000000300000002000000
     VectorActionDescriptions: []
     VectorActionSpaceType: 0
-  m_Model: {fileID: 5022602860645237092, guid: 558fb10865061420cb8f9399421c452c, type: 3}
+  m_Model: {fileID: 5022602860645237092, guid: 97dd90bfff0ab44f58e63e1bed59a55d, type: 3}
   m_InferenceDevice: 0
   m_BehaviorType: 0
   m_BehaviorName: AircraftLearner
